@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPs/AIOPS_01/mlruns/0/06079d0a5190424a8a3ea9e4b373c372/artifacts
+end_time: 1672139449798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06079d0a5190424a8a3ea9e4b373c372
+run_name: classy-finch-436
+run_uuid: 06079d0a5190424a8a3ea9e4b373c372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1672139449735
+status: 3
+tags: []
+user_id: naman
